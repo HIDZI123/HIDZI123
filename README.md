@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Engineer, Developer and a Gamer
 -------------------------------
 
+Coding enthusiast since a young age, I've always been drawn to the world of development. As a tech enthusiast, I spend my time crafting code and turning ideas into reality. Beyond coding, I find joy in the immersive world of video games, where challenging levels and captivating storylines fuel my passion for virtual adventures.
+
 * 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [Mywebsite](http://proj-two-hidzi123-mustafa-sarangpurwalas-projects.vercel.app)
 * ✉️  You can contact me at [yusufmustufa@gmail.com](mailto:yusufmustufa@gmail.com)
